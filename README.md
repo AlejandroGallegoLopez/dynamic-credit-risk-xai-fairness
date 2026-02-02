@@ -87,3 +87,10 @@ Focus:
 - SHAP/LIME-based explainability
 - fairness metrics and bias mitigation
 - adversarial robustness and governance for high‑risk AI systems (credit scoring)
+
+## 4. Contact
+For collaboration or more details:
+- Author: Alejandro Gallego López
+- Email: alejandrogallegolopezz@gmail.com
+- Location: Sevilla, Spain
+- LinkedIn: https://www.linkedin.com/in/alejandro-gallego-l%C3%B3pez-46a226285/
