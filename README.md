@@ -42,7 +42,7 @@ The project is structured in several phases:
 
 ---
 
-## 2. Repository Structure
+## 2. Repository Structure (Currently working on) Any interest: contact at the end
 
 ```text
 src/
